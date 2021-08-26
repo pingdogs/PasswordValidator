@@ -1,0 +1,4 @@
+*.yml linguist-language=Java
+*.xml linguist-language=Java
+*.class linguist-language=Java
+
